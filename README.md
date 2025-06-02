@@ -1,19 +1,8 @@
 👋 Hi, I'm Monica K.
 
-💻 Computer Science Student | 🏐 Volleyball Captain | 🏆 Academic Topper
-🌟 Passionate about tech, teamwork, and turning ideas into reality.
-
-
-👩‍💻 What I Do:
-
 🧠 I build projects that blend creativity + code
 
 💅 Turning complex problems into clean, user-friendly solutions
-
-🔭 Currently diving into JavaScript, Data Structures, and Git mastery
-
-
-⚡ Highlights:
 
 🎓 Top performer at Visvesvaraya Technological University
 
@@ -22,9 +11,6 @@
 🚀 Interning at Krowd | Campus Ambassador at GFF
 
 📊 Leading an AI + dashboard project to make student data more accessible
-
-
-
 
 
 ## 🌐 Socials:
