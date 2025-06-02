@@ -24,21 +24,7 @@
 📊 Leading an AI + dashboard project to make student data more accessible
 
 
-🔧 Tech Stack:
 
-Java • Python • C • JavaScript • React • SQL • HTML/CSS • Git • Figma
-
-
-🏐 Off the Keyboard:
-
-Catch me spiking on the volleyball court, leading my squad like a boss, or vibing to some indie playlists while debugging 🌈🎧
-
-
-📫 Let’s Connect:
-
-Whether it’s tech collabs, open-source vibes, or just vibing over coffee – I’m all ears ☕✨
-
-“Be the code you want to see in the repo.” — probably me 😌
 
 
 ## 🌐 Socials:
