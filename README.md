@@ -1,16 +1,8 @@
-👋 Hi, I'm Monica K.
-
-🧠 I build projects that blend creativity + code
-
-💅 Turning complex problems into clean, user-friendly solutions
-
-🎓 Top performer at Visvesvaraya Technological University
-
-🥇 Winner of the 2023 Fashion Show (yep, brains and style 😉)
-
-🚀 Interning at Krowd | Campus Ambassador at GFF
-
-📊 Leading an AI + dashboard project to make student data more accessible
+👋 Hi, I'm Monica K.<br>
+💅 Turning complex problems into clean, user-friendly solutions<br>
+🎓 Top performer at Visvesvaraya Technological University<br>
+🥇 Winner of the 2023 Fashion Show (yep, brains and style 😉)<br>
+🚀 Interning at Krowd | Campus Ambassador at GFG<br>
 
 
 ## 🌐 Socials:
